@@ -19,4 +19,9 @@ Data Scientist @ Accenture (Aug 2021 - Nov 2021)
 *  Neural network training and parameter setting.
 
 Projects
---------
+==========================
+
+Pursuit of prey
+----------------
+
+The aim of this work is to simulate a basic biological instinct in nature, which is the pursuit of prey, which is part of prey hunting. At work, the role of the predator is provided by the mobile robot TurtleBot 3 Burger. In the simulation, the sensors of the mobile robot are used to detect the distance from other objects and to detect the object that is being chased. The project was divided into two parts. The first part consisted of a simulation of chasing prey in the open source application Webots. In the second part, after the successful simulation in the first part, the project was moved from the virtual environment to the physical environment.
