@@ -24,11 +24,11 @@ Skills
 Programming languages
 ---------------------
 
-* <label for="file">Python  </label> <progress id="file" max="100" value="50"></progress><br>
-* <label for="file">C       </label> <progress id="file" max="100" value="50"></progress><br>
-* <label for="file">Java    </label> <progress id="file" max="100" value="25"></progress><br>
-* <label for="file">C#      </label> <progress id="file" max="100" value="35"></progress><br>
-* <label for="file">Matlab  </label> <progress id="file" max="100" value="25"></progress>
+* <label for="file">Python  </label> <progress align:center id="file" max="100" value="50"></progress><br>
+* <label for="file">C       </label> <progress align:center id="file" max="100" value="50"></progress><br>
+* <label for="file">Java    </label> <progress align:center id="file" max="100" value="25"></progress><br>
+* <label for="file">C#      </label> <progress align:center id="file" max="100" value="35"></progress><br>
+* <label for="file">Matlab  </label> <progress align:center id="file" max="100" value="25"></progress>
 
 Scripting languages
 -------------------
