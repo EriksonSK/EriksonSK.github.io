@@ -37,7 +37,10 @@ Scripting languages
 * <label for="file">SQL   </label> <progress id="file" max="100" value="45"></progress><br>
 
 <div class="progress">
-    <div role="progressbar " style="width: 90%;" class="progress-bar progress-bar-secondary text-left"><span>Secondary</span></div>
+    <div role="progressbar " style="width: 90%;" class="progress-bar progress-bar-secondary text-left">
+      <span>Secondary</span>
+    </div>
+</div>
 
 Projects
 ==========================
