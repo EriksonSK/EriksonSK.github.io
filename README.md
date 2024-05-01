@@ -31,7 +31,6 @@ Skills
           <div class="h-full rounded-full bg-orange-400" style="width:50%"></div>
         </div>
       </div>
-    </div>
   </div>
 </div>
 
