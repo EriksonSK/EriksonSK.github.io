@@ -18,3 +18,5 @@ Data Scientist @ Accenture (Aug 2021 - Nov 2021)
 *  Data cleaning and preparation.
 *  Neural network training and parameter setting.
 
+Projects
+--------
