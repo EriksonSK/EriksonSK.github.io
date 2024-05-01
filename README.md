@@ -9,5 +9,7 @@ I started programming in high school as preparation for my high school diploma i
 *   🌍  I'm based in Košice
 *   🤝  I'm open to collaborating on Interesting projects and Job offers
 *   ⚡  I am interested in information technology as such, and the more interested I am, the faster I learn new skills
-
+  
+Work Experience
+----------------
 
