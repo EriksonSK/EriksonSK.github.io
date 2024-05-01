@@ -24,17 +24,17 @@ Skills
 Programming languages
 ---------------------
 
-* Python <progress id="file" max="100" value="50"></progress><br>
-* C      <progress id="file" max="100" value="50"></progress><br>
-* <label for="file">Java</label> <progress id="file" max="100" value="25"></progress><br>
-* <label for="file">C#</label> <progress id="file" max="100" value="35"></progress><br>
-* <label for="file">Matlab</label> <progress id="file" max="100" value="25"></progress>
+* Python
+* C
+* Java
+* C#
+* Matlab
 
 Scripting languages
 -------------------
 
-* <label for="file">HTML  </label> <progress id="file" max="100" value="35"></progress><br>
-* <label for="file">SQL   </label> <progress id="file" max="100" value="45"></progress><br>
+* HTML
+* SQL
 
 
 Projects
