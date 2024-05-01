@@ -60,7 +60,7 @@ The aim of this work is to simulate a basic biological instinct in nature, which
         <a href="#" class="link__text">
         Visit Site <span>&rarr;</span>
         </a> 
-        <a href="https://sites.google.com/view/ismr-zadanie/domov" target="_blank">
+        <a href="https://github.com/nisarhassan12/portfolio" target="_blank">
         </a>
     </div>
 
