@@ -24,7 +24,7 @@ Skills
 Programming languages
 ---------------------
 
-* <label for="file">Python</label> <center><progress id="file" max="100" value="50"></progress></center><br>
+* <label for="file">Python</label> <progress id="file" max="100" value="50"></progress><br>
 * <label for="file">C</label> <progress id="file" max="100" value="50"></progress><br>
 * <label for="file">Java</label> <progress id="file" max="100" value="25"></progress><br>
 * <label for="file">C#</label> <progress id="file" max="100" value="35"></progress><br>
@@ -36,6 +36,8 @@ Scripting languages
 * <label for="file">HTML  </label> <progress id="file" max="100" value="35"></progress><br>
 * <label for="file">SQL   </label> <progress id="file" max="100" value="45"></progress><br>
 
+
+<span class="ml-2 text-sm font-medium">React</span><div class="h-5 w-full overflow-hidden rounded-full bg-neutral-300"><div class="h-full rounded-full bg-orange-400" style="width:90%"></div></div>
 
 Projects
 ==========================
