@@ -13,3 +13,8 @@ I started programming in high school as preparation for my high school diploma i
 Work Experience
 ----------------
 
+Data Scientist @ Accenture (Aug 2021 - Nov 2021)
+*  Constructing neural network models.
+*  Data cleaning and preparation.
+*  Neural network training and parameter setting.
+
