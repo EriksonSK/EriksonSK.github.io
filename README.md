@@ -21,17 +21,9 @@ Data Scientist @ Accenture (Aug 2021 - Nov 2021)
 Skills
 ------
 
-<div class= "grid grid-cols-1 gap-6 md:grid-cols-2">
-  <div class="flex flex-col">
-    <span class="text-center text-lg font-bold">Languages</span>
-    <div class="flex flex-col gap-y-2">
-      <div class="flex flex-col">
-        <span class="ml-2 text-sm font-medium">Python</span>
-        <div class="h-5 w-full overflow-hidden rounded-full bg-neutral-300">
-          <div class="h-full rounded-full bg-orange-400" style="width:50%"></div>
-        </div>
-      </div>
-  </div>
+<p>HTML</p>
+<div class="container">
+  <div class="skills html">90%</div>
 </div>
 
 Projects
