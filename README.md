@@ -21,27 +21,9 @@ Data Scientist @ Accenture (Aug 2021 - Nov 2021)
 Skills
 ------
 
-<p>HTML</p>
-<div class="container">
-  <div class="skills html">90%</div>
-</div>
+<label for="file">File progress:</label>
 
-* {box-sizing:border-box}
-
-/* Container for skill bars */
-.container {
-  width: 100%; /* Full width */
-  background-color: #ddd; /* Grey background */
-}
-
-.skills {
-  text-align: right; /* Right-align text */
-  padding-top: 10px; /* Add top padding */
-  padding-bottom: 10px; /* Add bottom padding */
-  color: white; /* White text color */
-}
-
-.html {width: 90%; background-color: #04AA6D;} /* Green */
+<progress id="file" max="100" value="70">70%</progress>
 
 Projects
 ==========================
