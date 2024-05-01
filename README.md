@@ -36,8 +36,8 @@ Scripting languages
 * <label for="file">HTML  </label> <progress id="file" max="100" value="35"></progress><br>
 * <label for="file">SQL   </label> <progress id="file" max="100" value="45"></progress><br>
 
-
-<span class="ml-2 text-sm font-medium">React</span><div class="h-5 w-full overflow-hidden rounded-full bg-neutral-300"><div class="h-full rounded-full bg-orange-400" style="width:90%"></div></div>
+<div class="progress">
+    <div role="progressbar " style="width: 90%;" class="progress-bar progress-bar-secondary text-left"><span>Secondary</span></div>
 
 Projects
 ==========================
