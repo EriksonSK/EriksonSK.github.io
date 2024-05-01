@@ -33,6 +33,5 @@ The aim of this work is to simulate a basic biological instinct in nature, which
         <a href="https://sites.google.com/view/ismr-zadanie/domov" target="_blank">
         </a>
     </div>
-    </div>
 
 #https://sites.google.com/view/ismr-zadanie/domov
