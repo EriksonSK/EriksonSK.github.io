@@ -36,6 +36,17 @@ Scripting languages
 * HTML
 * SQL
 
+Industry Knowledge
+------------------
+
+* Machine Learning
+* Deep Learning
+* Internet of Things (IoT)
+* Artificial Intelligence (AI)
+* Cybernetics
+* Fuzzy Systems
+* Industry 4.0
+* Expert Systems
 
 Projects
 ==========================
