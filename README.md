@@ -10,14 +10,33 @@ I started programming in high school as preparation for my high school diploma i
 *   🤝  I'm open to collaborating on Interesting projects and Job offers
 *   ⚡  I am interested in information technology as such, and the more interested I am, the faster I learn new skills
 
-<div class="header__text-box row">
-    <div class="header__text">
-        <h1 class="heading-primary">
-        <!-- Replace the following name with your name -->
-        <span>Syed Ali Hussnain</span>
-        </h1>
-        <!-- Put a small paragraph about yourself -->
-        <p>A Web Developer based in Lahore, Pakistan.</p>
-        <a href="#contact" class="btn btn--pink">Get in touch</a>
+<div class="work__box">
+    <div class="work__text">
+    <h3>Portfolio Template</h3>
+    <p>
+        A free Open Source Portfolio for anyone to use for free.
+    </p>
+    <ul class="work__list">
+        <li>HTML</li>
+        <li>SCSS</li>
+        <li>JavaScript</li>
+        <li>Parcel</li>
+    </ul>
+
+    <div class="work__links">
+        <a href="#" class="link__text">
+        Visit Site <span>&rarr;</span>
+        </a> 
+        <a href="https://github.com/nisarhassan12/portfolio" target="_blank">
+        <img src="./images/github.svg" class="work__code" alt="GitHub">
+        </a>
+    </div>
+    </div>
+    <div class="work__image-box">
+        <img
+            src="./images/project-1.png"
+            class="work__image"
+            alt="Project 1"
+        />
     </div>
 </div>
