@@ -24,7 +24,7 @@ Skills
 Programming languages
 ---------------------
 
-* <label for="file">Python</label> <progress style="text-align:center;" id="file" max="100" value="50"></progress><br>
+* <label for="file">Python</label> <center><progress id="file" max="100" value="50"></progress></center><br>
 * <label for="file">C</label> <progress id="file" max="100" value="50"></progress><br>
 * <label for="file">Java</label> <progress id="file" max="100" value="25"></progress><br>
 * <label for="file">C#</label> <progress id="file" max="100" value="35"></progress><br>
