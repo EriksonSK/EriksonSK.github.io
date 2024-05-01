@@ -19,10 +19,23 @@ Data Scientist @ Accenture (Aug 2021 - Nov 2021)
 *  Neural network training and parameter setting.
 
 Skills
-------
+=======
 
-<label for="file">Python</label>
-<progress id="file" max="100" value="50">50%</progress>
+Programming languages
+---------------------
+
+<label for="file">Python</label> <progress id="file" max="100" value="50"></progress>
+<label for="file">C</label> <progress id="file" max="100" value="50"></progress>
+<label for="file">Java</label> <progress id="file" max="100" value="25"></progress>
+<label for="file">C#</label> <progress id="file" max="100" value="35"></progress>
+<label for="file">Matlab</label> <progress id="file" max="100" value="25"></progress>
+
+Scripting languages
+-------------------
+
+<label for="file">HTML</label> <progress id="file" max="100" value="35"></progress>
+<label for="file">SQL</label> <progress id="file" max="100" value="45"></progress>
+
 
 Projects
 ==========================
