@@ -1,4 +1,4 @@
-Hi 👋 My name is Erik Béla
+Hi 👋 My name is Erik Béla. I am working on supplementing the portfolio.
 ==========================
 
 data scientist and python developer
